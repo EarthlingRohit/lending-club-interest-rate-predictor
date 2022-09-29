@@ -21,3 +21,10 @@
     - 5_Model_Random Forest.ipynb
     - 6_Model_XG Boost.ipynb
 
+**Interactive Interest Rate Predictor App**
+
+There is a functional Streamlit app in this repo that allows a loan applicant to enter their details and the latest model will output their expected P2P loan interest rate (keeping in mind the RMSE error).
+
+However, due to privacy concerns (Streamlit wants access to all your repos - public and private), I have decided not to deploy the app on Streamlit Cloud for now.
+
+You can try out the app locally on your machine using the 'interest-rate-predictor-app' folder in the repo.
