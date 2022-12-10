@@ -1,6 +1,6 @@
 ## Project Title: Lending Club – Interest Rate Predictor
 
-**Author Name:** Rohit Singh - [GitHub](https://github.com/rohitsinghxyz) - [LinkedIn](https://www.linkedin.com/in/rohitsinghxyz)
+**Author Name:** Rohit Singh - [GitHub](https://github.com/RohitSinghHQ) - [LinkedIn](https://www.linkedin.com/in/RohitSinghHQ)
 
 
 1. Please download the ‘All Lending Club loan data’ data set from [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club).
