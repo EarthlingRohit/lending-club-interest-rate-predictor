@@ -1,6 +1,6 @@
 # Author: Rohit Singh
-# GitHub: https://github.com/rohitsinghxyz
-# LinkedIn: https://www.linkedin.com/in/rohitsinghxyz
+# GitHub: https://github.com/RohitSinghHQ
+# LinkedIn: https://www.linkedin.com/in/RohitSinghHQ
 # Project: Lending Club - Interest Rate Predictor
 
 import joblib
